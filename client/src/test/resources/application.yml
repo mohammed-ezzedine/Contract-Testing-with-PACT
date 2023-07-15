@@ -1,0 +1,16 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+
+messaging:
+  outgoing:
+    add-spells:
+      routing-key: spells.add
+      exchange: spells
+
+provider:
+  url: http://localhost:8001/
+
+pactbroker:
+  url: http://localhost:9292
