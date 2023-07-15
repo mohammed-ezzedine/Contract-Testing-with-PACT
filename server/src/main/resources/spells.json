@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Accio",
+    "description": "Summoning Charm - used to summon an object from a distance"
+  },
+  {
+    "name": "Alohomora",
+    "description": "Unlocking Charm - used to unlock and open doors"
+  },
+  {
+    "name": "Avada Kedavra",
+    "description": "Killing Curse - instantly kills the target; one of the three Unforgivable Curses"
+  },
+  {
+    "name": "Bubble-Head Charm",
+    "description": "Creates a bubble of air around the head, allowing the caster to breathe underwater or in toxic environments"
+  },
+  {
+    "name": "Colloportus",
+    "description": "Locking Spell - locks a door or object"
+  },
+  {
+    "name": "Confundo",
+    "description": "Confundus Charm - confuses the target, causing them to become disoriented and more susceptible to suggestion"
+  },
+  {
+    "name": "Crucio",
+    "description": "Torture Curse - causes immense pain to the target; one of the three Unforgivable Curses"
+  },
+  {
+    "name": "Defodio",
+    "description": "Gouging Spell - used to carve or dig into objects"
+  },
+  {
+    "name": "Densaugeo",
+    "description": "Enlarging Spell - causes the target's teeth to grow at an alarming rate"
+  },
+  {
+    "name": "Depulso",
+    "description": "Banishing Charm - used to push objects away from the caster"
+  },
+  {
+    "name": "Diffindo",
+    "description": "Severing Charm - used to cut or rip objects apart"
+  },
+  {
+    "name": "Disillusionment Charm",
+    "description": "Used to make the target blend into their surroundings, becoming invisible or nearly so"
+  },
+  {
+    "name": "Draught of Living Death",
+    "description": "A potion that puts the drinker into a deep, death-like sleep"
+  },
+  {
+    "name": "Engorgio",
+    "description": "Enlarging Charm - used to make objects larger"
+  },
+  {
+    "name": "Episkey",
+    "description": "Healing Spell - used to heal minor injuries"
+  },
+  {
+    "name": "Expecto Patronum",
+    "description": "Patronus Charm - used to conjure a Patronus, a guardian that protects against Dementors and other dark creatures"
+  },
+  {
+    "name": "Expelliarmus",
+    "description": "Disarming Charm - used to disarm an opponent and send their wand flying out of their hand"
+  },
+  {
+    "name": "Fidelius Charm",
+    "description": "Used to conceal a secret within the soul of a trusted individual; only they can reveal the secret to others"
+  },
+  {
+    "name": "Finite Incantatem",
+    "description": "General Counterspell - used to end the effects of many spells and enchantments"
+  },
+  {
+    "name": "Flagrate",
+    "description": "Used to draw fiery shapes or writing in the air"
+  },
+  {
+    "name": "Flipendo",
+    "description": "Knockback Jinx - used to knock over or push back objects and creatures"
+  },
+  {
+    "name": "Furnunculus",
+    "description": "Pimple Jinx - causes the target to break out in painful boils"
+  },
+  {
+    "name": "Geminio",
+    "description": "Gemino Curse - creates a duplicate of an object"
+  },
+  {
+    "name": "Glisseo",
+    "description": "Vanishing Charm - used to vanish or transform stairs into a slide"
+  },
+  {
+    "name": "Homenum Revelio",
+    "description": "Revealing Charm - used to detect human presence in a specific area"
+  },
+  {
+    "name": "Impedimenta",
+    "description": "Impediment Jinx - slows or immobilizes the target"
+  },
+  {
+    "name": "Imperio",
+    "description": "Imperius Curse - gives the caster complete control over the target's actions; one of the three Unforgivable Curses"
+  },
+  {
+    "name": "Incarcerous",
+    "description": "Conjures ropes or chains to bind the target"
+  },
+  {
+    "name": "Lumos",
+    "description": "Creates a beam of light from the tip of the wand"
+  },
+  {
+    "name": "Meteolojinx Recanto",
+    "description": "Weather-Modifying Charm - used to end the effects of a weather-modifying spell"
+  },
+  {
+    "name": "Muffliato",
+    "description": "Muffling Charm - used to prevent nearby people from overhearing a conversation"
+  },
+  {
+    "name": "Nox",
+    "description": "Puts out the light created by Lumos"
+  },
+  {
+    "name": "Obliviate",
+    "description": "Memory Charm - erases memories from the target's mind"
+  },
+  {
+    "name": "Obscuro",
+    "description": "Used to blindfold the target"
+  },
+  {
+    "name": "Oppugno",
+    "description": "Used to make conjured objects attack the target"
+  },
+  {
+    "name": "Orchideous",
+    "description": "Conjures a bouquet of flowers from the tip of the wand"
+  },
+  {
+    "name": "Pack",
+    "description": "Used to pack objects into a container"
+  },
+  {
+    "name": "Petrificus Totalus",
+    "description": "Full Body-Bind Curse - immobilizes the target completely"
+  },
+  {
+    "name": "Point Me",
+    "description": "Spell used to point the caster in the direction of their desired destination"
+  },
+  {
+    "name": "Portus",
+    "description": "Portkey Spell - used to create an object that can transport the user to a specific location"
+  },
+  {
+    "name": "Prior Incantato",
+    "description": "Reveals the last spell cast by a wand"
+  },
+  {
+    "name": "Protego",
+    "description": "Shield Charm - creates a magical shield that protects the caster from spells and physical objects"
+  },
+  {
+    "name": "Reducto",
+    "description": "Reduction Charm - used to blast solid objects apart"
+  },
+  {
+    "name": "Relashio",
+    "description": "Used to release a person or object from being held or bound"
+  },
+  {
+    "name": "Reparo",
+    "description": "Mending Charm - used to repair broken objects"
+  },
+  {
+    "name": "Rictusempra",
+    "description": "Tickling Charm - causes the target to experience uncontrollable laughter"
+  },
+  {
+    "name": "Riddikulus",
+    "description": "Used to turn a Boggart into something humorous, thus defeating it"
+  },
+  {
+    "name": "Scourgify",
+    "description": "Cleaning Charm - used to clean dirt and grime off of objects"
+  },
+  {
+    "name": "Sectumsempra",
+    "description": "Used to cause deep wounds on the target; invented by Severus Snape"
+  },
+  {
+    "name": "Silencio",
+    "description": "Silencing Charm - used to silence the target"
+  },
+  {
+    "name": "Sonorus",
+    "description": "Amplifies the caster's voice"
+  },
+  {
+    "name": "Stupefy",
+    "description": "Stunning Spell - used to knock out the target"
+  },
+  {
+    "name": "Tarantallegra",
+    "description": "Leg Jinx - causes the target's legs to dance uncontrollably"
+  },
+  {
+    "name": "Tergeo",
+    "description": "Used to remove material from a surface"
+  },
+  {
+    "name": "Unbreakable Vow",
+    "description": "Magical vow that, if broken, results in the death of the person who made the vow; requires a third party as witness and binder"
+  },
+  {
+    "name": "Wingardium Leviosa",
+    "description": "Levitation Charm - used to levitate objects"
+  }
+]

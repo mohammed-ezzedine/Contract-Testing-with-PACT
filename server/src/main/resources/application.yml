@@ -1,0 +1,14 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+
+messaging:
+  incoming:
+    add-spells:
+      queue: add-spell
+      routing-key: spells.add
+      exchange: spells
+
+server:
+  port: 8001
