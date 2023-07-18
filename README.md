@@ -1,3 +1,6 @@
+# Article:
+https://mohammed.ezzedine.me/article/G2LNd7Rm65r
+
 # How To Run:
 1. Spin up the required containers: `docker-compose up -d`
 2. Run the Provider Application
